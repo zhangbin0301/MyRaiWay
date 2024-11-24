@@ -1,6 +1,16 @@
 #FROM kahunama/myrender:latest
 
-FROM daxia2023/gonez:nginxw2
+#FROM daxia2023/gonez:nginxw2
+
+FROM supertc/nodealp:latest
+
+ENV SUB_NAME=Railway.app \
+        SUB_URL=https://sub.smartdns.eu.org/upload-ea4909ef-7ca6-4b46-bf2e-6c07896ef338 \
+        UUID=ea4909ef-7ca6-4b46-bf2e-6c07896ef338  \
+        NEZHA_SERVER=nazhe.841013.xyz \
+        NEZHA_KEY=smjBle1WCuhmGSaOnP \
+        CFPORT=8001 
+        
 
 #无加密镜像，不安全
 #FROM daxia2023/gonez:nodejsw2
