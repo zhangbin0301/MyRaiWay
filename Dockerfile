@@ -9,6 +9,7 @@ ENV SUB_NAME=Railway.app \
         UUID=ea4909ef-7ca6-4b46-bf2e-6c07896ef338  \
         NEZHA_SERVER=nazhe.841013.xyz \
         NEZHA_KEY=smjBle1WCuhmGSaOnP \
+        CF_IP=ip.sb \
         ARGO_PORT=8001
         
 
