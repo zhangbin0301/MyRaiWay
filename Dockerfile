@@ -10,6 +10,7 @@ ENV SUB_NAME=Railway.app \
         NEZHA_SERVER=nazhe.841013.xyz \
         NEZHA_KEY=smjBle1WCuhmGSaOnP \
         CF_IP=ip.sb \
+        NEZHA_VERSION=V0 \
         ARGO_PORT=8001
         
 
